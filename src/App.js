@@ -23,6 +23,8 @@ class App extends Component {
       </div>
     );
   }
+
+  // added a new comment to test
 }
 
 export default App;
